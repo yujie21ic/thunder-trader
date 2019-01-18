@@ -1,9 +1,0 @@
-#ifndef _COMMONFILES_COMPRETRADESYSTEMHEADERS_SEVERITYLEVEL_H_
-#define _COMMONFILES_COMPRETRADESYSTEMHEADERS_SEVERITYLEVEL_H_
-enum severity_levels
-{
-	normal,
-	warning,
-	error
-};
-#endif
